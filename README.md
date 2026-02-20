@@ -1,2 +1,2 @@
 # CSec-Learning
-Learning about Cyber Security
+Personal Cyber Security Learning
