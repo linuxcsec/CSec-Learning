@@ -1,4 +1,3 @@
-# CSec-Learning
-Personal Cyber Security Learning
+# CTF practice
 
-Learning from scratch 
+This git is to take notes about different concepts in pentesting, CTF practice and cyber security in general.
